@@ -230,4 +230,7 @@ This is a **complete, production-ready system** that demonstrates:
 - **Full-stack Development** with modern React and FastAPI
 - **DevOps Practices** with Docker, CI/CD, and deployment automation
 
+
 **Perfect for hackathons, demos, and real-world deployment!** 🚀
+
+**" https://dancing-melomakarona-0b275e.netlify.app/ This is the  demo link  "
