@@ -230,4 +230,21 @@ This is a **complete, production-ready system** that demonstrates:
 - **Full-stack Development** with modern React and FastAPI
 - **DevOps Practices** with Docker, CI/CD, and deployment automation
 
+
 **Perfect for hackathons, demos, and real-world deployment!** 🚀
+
+## 🌐 Live Demo
+
+SatyaSetu is live and accessible here:
+
+🔗 https://dancing-melomakarona-0b275e.netlify.app/
+
+This is the deployed version of the Voice-First Rural Cyber Defense system, supporting real-time fake news and scam verification using multimodal GenAI.
+
+Supports:
+
+- Voice input
+- Image verification
+- Text verification
+- Real-time responses
+  
