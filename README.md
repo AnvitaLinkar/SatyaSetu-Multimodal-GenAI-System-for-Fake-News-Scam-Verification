@@ -12,6 +12,28 @@ A **production-ready** AI system for rural cybersecurity education and threat de
 - ✅ **Deployment**: Docker support, production scripts
 - ✅ **Documentation**: Complete setup and deployment guides
 
+
+## 🌐 Live Demo
+
+SatyaSetu is fully deployed and accessible online:
+
+### 💻 Frontend Application (Vercel)
+Main production frontend interface:
+
+🔗 https://ethackthonfrontend.vercel.app/
+
+---
+
+### 🔊 Voice-First Rural Cyber Defense (Netlify)
+Voice-enabled version for rural cybersecurity:
+
+🔗 https://dancing-melomakarona-0b275e.netlify.app/
+
+---
+
+These deployments demonstrate the complete Multimodal GenAI system for fake news and scam detection using voice, image, and text inputs.
+
+
 ## 🚀 Quick Start
 
 ### Option 1: Windows Setup (Recommended)
@@ -233,18 +255,8 @@ This is a **complete, production-ready system** that demonstrates:
 
 **Perfect for hackathons, demos, and real-world deployment!** 🚀
 
-## 🌐 Live Demo
 
-SatyaSetu is live and accessible here:
 
-🔗 https://dancing-melomakarona-0b275e.netlify.app/
 
-This is the deployed version of the Voice-First Rural Cyber Defense system, supporting real-time fake news and scam verification using multimodal GenAI.
-
-Supports:
-
-- Voice input
-- Image verification
-- Text verification
-- Real-time responses
   
+
